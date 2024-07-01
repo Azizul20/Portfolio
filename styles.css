@@ -1,0 +1,19 @@
+.box-shadow{
+    box-shadow: 3px 3px 6px rgb(155, 155, 155);
+}
+a{
+    color: rgb(45, 183, 237);
+}
+@media screen and (max-width : 992px) {
+    .w-50{
+        width: 75% !important;
+    }
+}
+@media screen and (max-width : 768px) {
+    .w-50{
+        width: 100% !important;
+    }
+    .w-75{
+        width: 100% !important;
+    }
+}
